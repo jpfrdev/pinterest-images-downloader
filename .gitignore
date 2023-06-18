@@ -1,0 +1,4 @@
+.wdm
+include
+__pycache__
+lib
